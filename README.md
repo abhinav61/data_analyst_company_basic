@@ -1,4 +1,4 @@
-# data_analyst_company_basic
+# data_analyst_company_basic using MySQL database
 Creating the powerbi report of the company
 
 1. It contains the total revenue generated in total
